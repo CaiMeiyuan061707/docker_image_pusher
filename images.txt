@@ -1,1 +1,5 @@
 cloudnas/clouddrive2
+xhofe/alist
+jellyfin/jellyfin
+emby/embyserver
+funcman/115pc
